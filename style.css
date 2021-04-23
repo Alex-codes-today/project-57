@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  backround-color: #1a237e 0% #8e24aa 100%;
+  background-repeat: no-repeat;
+}
+h1 {
+  text-shadow: 2px 2px #F8BBDO;
+  font-size: 20px;
+}
+#bio {
+  padding: 20px;
+  font-size: 18;
+  text-align: center;
+}
+img {
+  text-align: center;
+  height: 50px;
+  width:50px;
+  border-radius: 50%;
+}
